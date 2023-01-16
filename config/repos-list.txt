@@ -1,1 +1,1 @@
-https://github.com/gourcetools/gourcetools
+https://github.com/gourcetools/gource-tools

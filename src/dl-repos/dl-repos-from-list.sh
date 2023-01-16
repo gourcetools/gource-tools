@@ -2,7 +2,9 @@
 
 
 
-grep . ../../.config/.ReposList.txt | while read line ; do
+mkdir -p ../../repos
+
+grep . ../../config/repos-list.txt | while read line ; do
     cd .. ;
     cd .. ;
     cd repos ; 
@@ -10,10 +12,8 @@ grep . ../../.config/.ReposList.txt | while read line ; do
     echo "  Cloning $line";
     cd .. ;
     cd src ;
-    cd Repos_Downloader
+    cd dl-repos
   done
 
 
 echo Done downloading all repos.
-
-/bin/bash
