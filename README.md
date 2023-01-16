@@ -6,7 +6,7 @@ Gource-Tools                         <br>
 # <b>🍩 What is Gource-Tools?</b><br>
 <br>
 <b>Gource Tools is a toolbox made for Gource.</b><br>
-It's main purpose it to download <b>multiple</b> repos, create logs, combine them into one big file called `_combined.txt` and download avatars (from Gravatar) automatically. <br>
+It's main purpose it to download <b>multiple</b> repos, create logs, combine them into one big file called `ACombinedLog.txt` and download avatars (from Gravatar) automatically. <br>
 It's specially usefull for big projects with a lot of differents repos.<br>
 <br>
 
