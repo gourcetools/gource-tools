@@ -1,0 +1,6 @@
+todo
+open repos update.sh
+open avatar update.sh
+open patch colors.sh
+open generate logs.sh
+open combine logs.sh
