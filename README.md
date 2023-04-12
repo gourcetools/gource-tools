@@ -5,15 +5,13 @@ Gource-Tools                         <br>
 
 # <b>🍩 What is Gource-Tools?</b><br>
 <br>
-<b>Gource Tools is a toolbox made for Gource.</b><br>
-It's main purpose it to download <b>multiple</b> repos, create logs, combine them into one big file called `ACombinedLog.txt` and download avatars (from Gravatar) automatically. <br>
-It's specially usefull for big projects with a lot of differents repos.<br>
+Gource Tools is a comprehensive toolkit designed specifically for Gource. Its primary function is to streamline the process of downloading multiple repositories, generating log files, and merging them into a single, large file named ACombinedLog.txt. Additionally, Gource Tools automates the downloading of avatars from Gravatar. This toolkit is particularly useful for managing large-scale projects with numerous distinct repositories.
 <br>
 
 # <b>⚙️ Requirements:</b><br>
 - `git` , `gource` & `sed`  for basic usage (Explore only, you won't be able to make videos) <br>
 - Optional: `FFmpeg` for videos<br>
-- Optional: `imagemagick` & `perl` for avatars badges.<br>
+- Optional: `imagemagick` & `perl` `cpan` with `cpan install Parallel::ForkManager` for avatars.<br>
 <br>
 
 # Links (for Windows users): 
